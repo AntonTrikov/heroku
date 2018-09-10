@@ -9,7 +9,6 @@
     <dependencies>
         <dependency>
             <groupId>org.postgresql</groupId>
-            <artifact>postgresql</artifact>
             <version>9.6.1</version>
         </dependency>
     </dependencies>
